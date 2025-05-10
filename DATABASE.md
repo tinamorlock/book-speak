@@ -1,7 +1,7 @@
 ## pen_names
-name
-genre
-subgenre
-primary_trope
-secondary_trope
-foreign key: user
+name<br />
+genre<br />
+subgenre<br />
+primary_trope<br />
+secondary_trope<br />
+foreign key: user<br />
